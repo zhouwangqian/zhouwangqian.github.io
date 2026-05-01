@@ -13,8 +13,6 @@ description: "More info about Wangqian."
 + English short CV
 + Chinese short CV
 
----
-
 --- 
 
 ### **Identities and undertakings**
