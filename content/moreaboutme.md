@@ -8,6 +8,15 @@ description: "More info about Wangqian."
 
 --- 
 
+### **CV**
+
++ English short CV
++ Chinese short CV
+
+---
+
+--- 
+
 ### **Identities and undertakings**
 
 + Student member of the Association for Laboratory Phonology (2026 -).
