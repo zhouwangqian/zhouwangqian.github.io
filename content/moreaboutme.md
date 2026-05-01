@@ -10,14 +10,18 @@ description: "More info about Wangqian."
 
 ### **Identities and undertakings**
 
++ Student member of the Association for Laboratory Phonology (2026 -).
 + Teaching assistant: LING2003 Phonetics 1 (2024), LING2004 Phonology 1 (2025).
-+ Student member of the International Phonetic Association (2025 -).
++ Student member of the International Phonetic Association (2025 - 2026).
 + Postgraduate member of Lee Woo Sing College, CUHK (2025 -).
 + Conference reviewer: National Conference on Man-Machine Speech Communication 2024.
 
 ---
 
 ### **Awards, scholarships, and grants**
+
+Non Academic.<br>
++ **Best Short Film** & **Best Visual** for *The Tale of the Peony* (AIGC Film Shorts Section, the 16th Beijing International Film Festival, 2026).
 
 Ph.D.<br>
 + <a href='https://www.instagram.com/p/DNC2d4vuIBJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='>**First Place in LSA Summer Institute Term-2 Poster Session**</a> (Linguistics Society of America, University of Oregon, 2025), awarded USD 150.  
@@ -63,3 +67,4 @@ I advocate for both **language preservation** and **multilingualism**.
 + I'd count myself as a railfan and an amateur urbanist.
 + I listen to grunge and alternative rock, plus a lot of other stuff.
 + I love jelly-clear blue waters and sunlit beaches, and I like swimming. 
++ I curate/design sound and music for theatrical and cinematic productions.

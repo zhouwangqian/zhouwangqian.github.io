@@ -2,9 +2,15 @@
 title: "Happenings"
 date: 2025-12-25
 hidemeta: true
-description: "News an happenings."
+description: "News and happenings."
 
 ---
+
+--- 
+
+### April 2026
+
+My film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Visual** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival.<br>
 
 --- 
 
@@ -13,6 +19,7 @@ description: "News an happenings."
 Spent the summer (my first LSA summer) in Eugene, Oregon. <br>
 Made friends, had fun, and learnt a lot.<br>
 Won first place in the Poster Session.<br>
+Dived into the Crater Lake.<br>
 {{< hscroll >}}
 ![](2025July_LSA1.jpg)
 ![](2025July_LSA2.jpg)
