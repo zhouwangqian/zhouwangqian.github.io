@@ -11,9 +11,9 @@ description: "More info about Wangqian."
 ### **Identities and undertakings**
 
 + Student member of the Association for Laboratory Phonology (2026 -).
-+ Teaching assistant: LING2003 Phonetics 1 (2024), LING2004 Phonology 1 (2025).
 + Student member of the International Phonetic Association (2025 - 2026).
 + Postgraduate member of Lee Woo Sing College, CUHK (2025 -).
++ Teaching assistant: LING2003 Phonetics 1 (2024), LING2004 Phonology 1 (2025).
 + Conference reviewer: National Conference on Man-Machine Speech Communication 2024.
 
 ---
