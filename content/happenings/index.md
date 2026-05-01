@@ -12,7 +12,9 @@ description: "News and happenings."
 
 My film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Visual** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival.<br>
 {{< hscroll >}}
-![](2026April_Peony.jpg)
+![](2026April_Peony1.jpg)
+![](2026April_Peony2.jpg)
+![](2026April_Peony3.jpg)
 {{< /hscroll >}}
 
 --- 
@@ -30,6 +32,7 @@ Dived into the Crater Lake.<br>
 ![](2025July_LSA4.jpg)
 ![](2025July_LSA5.jpg)
 ![](2025July_LSA6.jpg)
+{{< hvideo src="/2025July_LSA7.mp4" >}}
 {{< /hscroll >}}
 
 ---

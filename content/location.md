@@ -1,6 +1,6 @@
 ---
 title: "Location"
-date: 2025-08-05
+date: 2026-05-01
 hidemeta: true
 description: "Wangqian's location."
 
@@ -23,6 +23,12 @@ Shatin, NT, Hong Kong SAR of China
 Rm G19, Leung Kau Kui Building  
 Department of Linguistics and Modern Language  
 The Chinese University of Hong Kong  
+
+*Note: I'm visiting the key Laboratory of Linguistics, Chinese Academy of Social Sciences, from May 2026 to Jan 2027, during which period you should be find me at the address below.
+
+University of Chinese Academy of Social Sciences (Liangxiang Campus)
+No. 11 Changyu Street, Gongchen Sub-district
+Fangshan District, Beijing, 102488
 
 ---
 

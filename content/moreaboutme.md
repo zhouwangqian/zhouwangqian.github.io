@@ -10,8 +10,8 @@ description: "More info about Wangqian."
 
 ### **CV**
 
-+ English short CV
-+ Chinese short CV
++ [English short CV](/zhoucv.pdf)
++ [Chinese short CV](/zhoucvchinese.pdf)
 
 --- 
 
@@ -26,9 +26,6 @@ description: "More info about Wangqian."
 ---
 
 ### **Awards, scholarships, and grants**
-
-Non Academic.<br>
-+ **Best Short Film** & **Best Visual** for *The Tale of the Peony* (AIGC Film Shorts Section, the 16th Beijing International Film Festival, 2026).
 
 Ph.D.<br>
 + <a href='https://www.instagram.com/p/DNC2d4vuIBJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='>**First Place in LSA Summer Institute Term-2 Poster Session**</a> (Linguistics Society of America, University of Oregon, 2025), awarded USD 150.  
@@ -48,6 +45,9 @@ B.A.<br>
 + **Second Class Scholarship** (Beijing Foreign Studies University, 2019).
 + **Third Class Scholarship** (Beijing Foreign Studies University, 2018).
 
+Non Academic.<br>
++ **Best Short Film** & **Best Visual** for *The Tale of the Peony* (AIGC Film Shorts Section, the 16th Beijing International Film Festival, 2026).
+
 ---
 
 ### **Facts and opinions**
@@ -55,7 +55,7 @@ B.A.<br>
 My name 望千 literally translates to **"looking toward the millennium"**, or figuratively, **"approaching the millennium"**, because I was born in the final month of 1999.
 
 I live and enjoy living a multilingual life.
-+ Most of the time, my spoken English resembles a Southern British accent. But don't get me wrong. I have zero intention to sound posh in any way.
++ Most of the time, my spoken English resembles a Southern British accent (with zero intention to sound posh in any way).
 + I speak multiple varieties of **Xiang** (Changsha and Lower Ningxiang) and **Mandarin** (Plastic Mandarin, Standard Mandarin, and Changde Mandarin).
 + I know a bit of **Cantonese**, **Spanish**, and **Portuguese**, but still need to work hard before I can fluently communicate with people.
 
