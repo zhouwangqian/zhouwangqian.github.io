@@ -24,7 +24,7 @@ My film, *The Tale of the Peony*, for which I designed music and sound effects, 
 Spent the summer (my first LSA summer) in Eugene, Oregon. <br>
 Made friends, had fun, and learnt a lot.<br>
 Won first place in the Poster Session.<br>
-Dived into the Crater Lake.<br>
+Jumped into the Crater Lake.<br>
 {{< hscroll >}}
 ![](2025July_LSA1.jpg)
 ![](2025July_LSA2.jpg)
