@@ -46,7 +46,7 @@ B.A.<br>
 + **Third Class Scholarship** (Beijing Foreign Studies University, 2018).
 
 Non Academic.<br>
-+ **Best Short Film** & **Best Visual Design** for *The Tale of the Peony* (AIGC Film Shorts Section, the 16th Beijing International Film Festival, 2026).
++ **Best Short Film** & **Best Production Design** for *The Tale of the Peony* (AIGC Film Shorts Section, the 16th Beijing International Film Festival, 2026).
 
 ---
 

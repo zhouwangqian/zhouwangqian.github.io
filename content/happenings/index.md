@@ -10,7 +10,7 @@ description: "News and happenings."
 
 ### April 2026
 
-My film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Visual Design** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival.<br>
+My film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Production Design** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival.<br>
 {{< hscroll >}}
 ![](2026April_Peony1.jpg)
 ![](2026April_Peony2.jpg)
