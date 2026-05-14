@@ -16,7 +16,7 @@ Arrived at CASS.
 
 ### April 2026
 
-My AIGC film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Production Design** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival. <a href='https://liuyuqing19990831.github.io/works.html#peony'>Check out the director's page for more</a><br>
+My AIGC film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Production Design** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival. <a href='https://liuyuqing19990831.github.io/works.html#peony'>Check out the director's page for more.</a><br>
 {{< hscroll >}}
 ![](2026April_Peony1.jpg)
 ![](2026April_Peony2.jpg)
