@@ -15,7 +15,7 @@ description: "More info about Wangqian."
 
 --- 
 
-### **Identities and undertakings**
+### **Identities and services**
 
 + Student member of the Association for Laboratory Phonology (2026 -).
 + Postgraduate member of Lee Woo Sing College, CUHK (2025 -).
