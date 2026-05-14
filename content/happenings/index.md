@@ -4,13 +4,19 @@ date: 2025-12-25
 hidemeta: true
 description: "News and happenings."
 
----
+--- 
+
+--- 
+
+### May 2026
+
+Arrived at CASS.
 
 --- 
 
 ### April 2026
 
-My film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Production Design** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival.<br>
+My AIGC film, *The Tale of the Peony*, for which I designed music and sound effects, won **Best Short Film** and **Best Production Design** in the AIGC Film Shorts Section of the 16th Beijing International Film Festival. <a href='https://liuyuqing19990831.github.io/works.html#peony'>Check out on the director's page</a><br>
 {{< hscroll >}}
 ![](2026April_Peony1.jpg)
 ![](2026April_Peony2.jpg)
