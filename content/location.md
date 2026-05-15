@@ -24,7 +24,7 @@ Rm G19, Leung Kau Kui Building
 Department of Linguistics and Modern Language  
 The Chinese University of Hong Kong  
 
-<span style="font-size: 0.8em;">**Note**: *I'm visiting the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, from May 2026 to Jan 2027, during which period you should be find me at the address below.*</span>
+<span style="font-size: 0.8em;">**Note**: *I'm visiting the Key Laboratory of Linguistics, Chinese Academy of Social Sciences, from May 2026 to Jan 2027. During this period, I can be reached at the address below.*</span>
 
 Key Laboratory of Linguistics, UCASS (Liangxiang Campus)  
 No. 11 Changyu Street, Gongchen Sub-district  
