@@ -4,7 +4,7 @@ date: 2025-05-16
 tags: ["perceptual cue","prominence","lexical stress","tonal neutralisation","duration","fundamental frequency","Changsha Xiang"]
 author: ["Wangqian Zhou"]
 description: "This study investigated the exploitation of acoustic cues (syllable duration and F0 contour) in perceiving Changsha stress, and revealed that both cues provided facilitation to the discerning of stress patterns. However, the effect of F0 contour weighs more than that of syllable duration ..." 
-summary: "This study investigated the exploitation of acoustic cues (syllable duration and F0 contour) in perceiving Changsha stress, and revealed that both cues provided facilitation to the discerning of stress patterns. However, the effect of F0 contour weighs more than that of syllable duration..." 
+summary: "This study investigated the exploitation of acoustic cues (syllable duration and F0 contour) in perceiving Changsha stress, and revealed that both cues provided facilitation to the discerning of stress patterns. However, the effect of F0 contour weighs more than that of syllable duration ..." 
 cover:
     image: "TAI2025_foto.jpeg"
     alt: "Perception of Stress in Disyllabic Words in Changsha Xiang"

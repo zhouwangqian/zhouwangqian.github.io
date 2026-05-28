@@ -3,8 +3,8 @@ title: "Early Production of Boundary Tones in Mandarin Declaratives: Contour Clu
 date: 2026-05-22
 tags: ["boundary tone","contour clustering","intonation","child language acquisition","bilingualism","Mandarin"]
 author: ["Wangqian Zhou"]
-description: "This preliminary study investigated how Mandarin-speaking children, monolingual and bilingual, acquire boundary tones during the second year of life, using a contour clustering approach. It showed that the developmental trajectories may be shaped by lexical tone category and their linguistic profile..." 
-summary: "This preliminary study investigated how Mandarin-speaking children, monolingual and bilingual, acquire boundary tones during the second year of life, using a contour clustering approach. It showed that the developmental trajectories may be shaped by lexical tone category and their linguistic profile..." 
+description: "This preliminary study investigated how Mandarin-speaking children, monolingual and bilingual, acquire boundary tones during the second year of life, using a contour clustering approach. It showed that the developmental trajectories may be shaped by lexical tone category and children's linguistic profile ..." 
+summary: "This preliminary study investigated how Mandarin-speaking children, monolingual and bilingual, acquire boundary tones during the second year of life, using a contour clustering approach. It showed that the developmental trajectories may be shaped by lexical tone category and children's linguistic profile ..." 
 cover:
     image: "HISPhonCog2026_foto.jpg"
     alt: "Early Production of Boundary Tones in Mandarin Declaratives"
