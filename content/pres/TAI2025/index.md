@@ -33,4 +33,4 @@ Lexical stress has been approached from the perspective of neutral/neutralised t
 
 ##### Citation
 
-**Zhou, W**. (2025, May 16). <span style = "font-style: italic;">Perception of stress in disyllabic words in Changsha Xiang: The effects of syllable duration and F0 contour </span> [Poster presentation]. The Third International Conference on Tone and Intonation (<a href='https://www.tai2025.org' style = 'color: gray;'>TAI2025</a>), May 16–18, Herrsching, Germany.
+**Zhou, W**. (2025, May 16). <span style = "font-style: italic;">Perception of stress in disyllabic words in Changsha Xiang: The effects of syllable duration and F0 contour </span> [Poster presentation]. The Third International Conference on Tone and Intonation (<a href='https://www.tai2025.org' style = 'color: gray;'>TAI 2025</a>), May 16–18, Herrsching, Germany.

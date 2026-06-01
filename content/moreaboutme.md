@@ -29,7 +29,7 @@ description: "More info about Wangqian."
 
 Ph.D.<br>
 + <a href='https://www.instagram.com/p/DNC2d4vuIBJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='>**First Place in LSA Summer Institute Term-2 Poster Session**</a> (Linguistics Society of America, University of Oregon, 2025), awarded USD 150.  
-+ <a href='https://www.internationalphoneticassociation.org/news/202503/ipa-student-awards-given-tai-2025'>**IPA Student Award for TAI2025**</a> (International Phonetic Association, 2025), awarded EUR 250.
++ <a href='https://www.internationalphoneticassociation.org/news/202503/ipa-student-awards-given-tai-2025'>**IPA Student Award for TAI 2025**</a> (International Phonetic Association, 2025), awarded EUR 250.
 + **CUHK Postgraduate Studentship** (The Chinese University of Hong Kong, 2024).
 
 M.A.<br>

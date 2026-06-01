@@ -10,9 +10,9 @@ description: "News and happenings."
 
 ### May 2026
 
-Arrived at CASS. <br>
+Arrived at CASS, Beijing. <br>
 Presented my study on boundary tone acquisition at HISPhonCog 2026. <br>
-Met a grey heron in the Cheonggyecheon River.
+Met a grey heron in the Cheonggyecheon River, Seoul.
 {{< hscroll >}}
 ![](2026May_CASS1.jpg)
 ![](2026May_HISPhonCog1.jpg)
