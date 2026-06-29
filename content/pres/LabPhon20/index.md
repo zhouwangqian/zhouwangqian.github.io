@@ -41,4 +41,4 @@ Previous studies have suggested that young speakers of Changsha Xiang (CSX) may 
 
 ##### Citation
 
-**Zhou, W.** & Mok, P. (2026, June 26). <span style = "font-style: italic;">Contrastive hyperarticulation of low-rising tones in Changsha Xiang and Plastic Mandarin </span> [Poster presentation]. The 20th Conference on Laboratory Phonology (<a href='https://site.hanyang.ac.kr/web/hisphoncog' style = 'color: gray;'>LabPhon 20</a>), June 26-28, Montreal, Canada.
+**Zhou, W.** & Mok, P. (2026, June 26). <span style = "font-style: italic;">Contrastive hyperarticulation of low-rising tones in Changsha Xiang and Plastic Mandarin </span> [Poster presentation]. The 20th Conference on Laboratory Phonology (<a href='https://labphon.org/labphon20/home' style = 'color: gray;'>LabPhon 20</a>), June 26-28, Montreal, Canada.
