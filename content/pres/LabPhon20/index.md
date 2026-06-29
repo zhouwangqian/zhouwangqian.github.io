@@ -33,7 +33,7 @@ Previous studies have suggested that young speakers of Changsha Xiang (CSX) may 
 
 ---
 
-###### Figure 7. Changsha Plastic Mandarin: Difference curves between T3 and T2 in competitor-absent (left) and competitor-present (right) conditions.
+###### Figure 7. Changsha Plastic Mandarin: Difference curves between sandhi T3 and T2 in competitor-absent (left) and competitor-present (right) conditions.
 
 ![](LabPhon20_fig7.png)
 
